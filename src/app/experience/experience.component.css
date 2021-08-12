@@ -1,0 +1,14 @@
+.p-profile{
+  background: url('/assets/image/experience.jpg');
+  margin-top: 10%;
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.entreprise-title{
+  margin-bottom: 3%;
+  margin-top: 7%;
+}

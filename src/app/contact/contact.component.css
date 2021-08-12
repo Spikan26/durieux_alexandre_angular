@@ -1,0 +1,27 @@
+.p-profile{
+  background: url('/assets/image/contact.jpg');
+  margin-top: 10%;
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.container{
+  margin-left: 10%;
+}
+
+.home-body{
+  margin-top: 10%;
+}
+
+.job{
+  margin-left : 5%;
+  margin-bottom: 5%;
+}
+
+.group-comp{
+  margin-bottom: 3%;
+  margin-top: 7%;
+}
